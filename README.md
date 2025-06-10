@@ -61,7 +61,7 @@ CREATE INDEX IF NOT EXISTS idx_username ON vpn_keys(username);
 
 1.  **Клонируйте репозиторий:**
     ```bash
-    git clone https://github.com/your-username/vpn-telegram-bot.git
+    git clone https://github.com/iotaodao/vpn-telegram-bot.git
     cd vpn-telegram-bot
     ```
 
